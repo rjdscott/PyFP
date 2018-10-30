@@ -1,4 +1,4 @@
-# Python-FP
+# PyFP
 Functional Programming in Python
 
 ## Getting started
