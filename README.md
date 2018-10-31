@@ -26,6 +26,11 @@ Topics covered:
 * filter, map, reduce
 * FP best practices
 
+Helpful resources
+* Toolz - https://github.com/suor/funcy/
+* fn.py - https://github.com/kachayev/fn.py
+* funcy - https://github.com/suor/funcy/
+
 ## Helpful resources
 * https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming
 * https://www.hackerearth.com/practice/python/functional-programming/functional-programming-1/tutorial/
